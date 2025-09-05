@@ -34,7 +34,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/pdf-api-tool.git
+git clone https://github.com/pradeepveeramaneni/FreeToolsRealtimeUse
 
 
 Install wkhtmltopdf:
