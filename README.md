@@ -56,3 +56,4 @@ This tool does not use third-party NuGet packages like NReco; it relies directly
 License
 
 This project is open-source under the MIT License
+
